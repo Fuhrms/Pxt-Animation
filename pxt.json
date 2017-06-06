@@ -1,7 +1,7 @@
 {
-    "name": "pxt-sonar",
-    "version": "0.0.2",
-    "description": "A PXT package to use sonar sensors such as the HC-SR04",
+    "name": "pxt-animation",
+    "version": "0.0.1",
+    "description": "A PXT package to use for fun animations with LEDs",
     "license": "MIT",
     "dependencies": {
         "core": "*"
